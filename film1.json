@@ -1,6 +1,5 @@
 [
 	{
-		"id" : 001,
 		"name" : "Joker",
 		"genre" : "Psychological Thriller",
 		"rating" : 8.7,
@@ -8,7 +7,6 @@
 		"aktor" : "Joaquin Phoenix"
 	},
 	{
-		"id" : 002,
 		"name" : "Logan",
 		"genre" : "Action",
 		"rating" : 8.1,
