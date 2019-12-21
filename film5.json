@@ -1,0 +1,16 @@
+[
+	{
+		"name" : "Captain Marvel",
+		"genre" : "Fantasy",
+		"rating" : 6.9,
+		"tahun" : 2019,
+		"aktor" : "Brie Larson"	
+	},
+	{
+		"name" : "Ghost Rider",
+		"genre" : "Action",
+		"rating" : 5.2,
+		"tahun" : 2007,
+		"aktor" : "Nicolas Cage"	
+	}
+]

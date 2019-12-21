@@ -1,0 +1,16 @@
+[
+	{
+		"name" : "Venom",
+		"genre" : "Thriller",
+		"rating" : 6.7,
+		"tahun" : 2002,
+		"aktor" : "Tom Hardy"	
+	},
+	{
+		"name" : "Captain America: The First Avenger",
+		"genre" : "Action",
+		"rating" : 6.9,
+		"tahun" : 2011,
+		"aktor" : "Chris Evans"	
+	}
+]

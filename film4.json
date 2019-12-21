@@ -1,0 +1,16 @@
+[
+	{
+		"name" : "The Dark Night",
+		"genre" : "Thriller",
+		"rating" : 9.0,
+		"tahun" : 2008,
+		"aktor" : "Christian Bale"	
+	},
+	{
+		"name" : "Black Panther",
+		"genre" : "Fantasy",
+		"rating" : 7.3,
+		"tahun" : 2018,
+		"aktor" : "Chadwick Boseman"	
+	}
+]
