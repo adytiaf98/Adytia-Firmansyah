@@ -1,0 +1,16 @@
+[	
+	{
+		"name" : "Deadpool",
+		"genre" : "Action",
+		"rating" : 8.0,
+		"tahun" : 2016,
+		"aktor" : "Ryan Reynold"
+	},
+	{
+		"name" : "Spiderman",
+		"genre" : "Action",
+		"rating" : 7.3,
+		"tahun" : 2002,
+		"aktor" : "Tobey Maguire"	
+	}
+]
